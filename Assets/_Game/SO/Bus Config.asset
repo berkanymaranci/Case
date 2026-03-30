@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7de57b03abf2714888a50546ad8bb15, type: 3}
+  m_Name: Bus Config
+  m_EditorClassIdentifier: 
+  moveDuration: 2
+  moveCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0.00091701146
+      outSlope: 0.00091701146
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.7019897
+    - serializedVersion: 3
+      time: 0.3646382
+      value: 0.68986416
+      inSlope: 1.4929855
+      outSlope: 1.4929855
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.951578
+      value: 1.0000805
+      inSlope: -0.0020873966
+      outSlope: -0.0020873966
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 1
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  tiltAngle: 2
+  tiltCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0.011575077
+      outSlope: 0.011575077
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.70739377
+    - serializedVersion: 3
+      time: 0.30609915
+      value: -0.9945229
+      inSlope: -0.037245058
+      outSlope: -0.037245058
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.96296114
+      outWeight: 0.9053732
+    - serializedVersion: 3
+      time: 0.83406377
+      value: 1.0013428
+      inSlope: -0.036604542
+      outSlope: -0.036604542
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.42308137
+      outWeight: 0.16363722
+    - serializedVersion: 3
+      time: 0.99422014
+      value: -0.0005233288
+      inSlope: 11.485661
+      outSlope: 11.485661
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.124155834
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  bounceHeight: 0.02
+  bounceDuration: 0.25
+  doorSlideDistance: 0.75
+  doorSlideDuration: 0.15
+  doorOpenEase: 9
+  doorCloseEase: 9

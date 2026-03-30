@@ -1,0 +1,230 @@
+{
+    "id": 2,
+    "gridWidth": 5,
+    "gridHeight": 5,
+    "rows": [
+        {
+            "cells": [
+                {
+                    "passengers": [],
+                    "isBlocked": true,
+                    "isTunnel": false,
+                    "orientation": 0
+                },
+                {
+                    "passengers": [
+                        {
+                            "color": 1
+                        }
+                    ],
+                    "isBlocked": false,
+                    "isTunnel": false,
+                    "orientation": 0
+                },
+                {
+                    "passengers": [],
+                    "isBlocked": false,
+                    "isTunnel": false,
+                    "orientation": 0
+                },
+                {
+                    "passengers": [
+                        {
+                            "color": 2
+                        }
+                    ],
+                    "isBlocked": false,
+                    "isTunnel": false,
+                    "orientation": 0
+                },
+                {
+                    "passengers": [],
+                    "isBlocked": true,
+                    "isTunnel": false,
+                    "orientation": 0
+                }
+            ]
+        },
+        {
+            "cells": [
+                {
+                    "passengers": [
+                        {
+                            "color": 2
+                        }
+                    ],
+                    "isBlocked": false,
+                    "isTunnel": false,
+                    "orientation": 0
+                },
+                {
+                    "passengers": [],
+                    "isBlocked": false,
+                    "isTunnel": false,
+                    "orientation": 0
+                },
+                {
+                    "passengers": [
+                        {
+                            "color": 1
+                        }
+                    ],
+                    "isBlocked": false,
+                    "isTunnel": false,
+                    "orientation": 0
+                },
+                {
+                    "passengers": [],
+                    "isBlocked": false,
+                    "isTunnel": false,
+                    "orientation": 0
+                },
+                {
+                    "passengers": [
+                        {
+                            "color": 2
+                        }
+                    ],
+                    "isBlocked": false,
+                    "isTunnel": false,
+                    "orientation": 0
+                }
+            ]
+        },
+        {
+            "cells": [
+                {
+                    "passengers": [],
+                    "isBlocked": false,
+                    "isTunnel": false,
+                    "orientation": 0
+                },
+                {
+                    "passengers": [],
+                    "isBlocked": false,
+                    "isTunnel": false,
+                    "orientation": 0
+                },
+                {
+                    "passengers": [],
+                    "isBlocked": false,
+                    "isTunnel": false,
+                    "orientation": 0
+                },
+                {
+                    "passengers": [],
+                    "isBlocked": false,
+                    "isTunnel": false,
+                    "orientation": 0
+                },
+                {
+                    "passengers": [],
+                    "isBlocked": false,
+                    "isTunnel": false,
+                    "orientation": 0
+                }
+            ]
+        },
+        {
+            "cells": [
+                {
+                    "passengers": [
+                        {
+                            "color": 1
+                        }
+                    ],
+                    "isBlocked": false,
+                    "isTunnel": false,
+                    "orientation": 0
+                },
+                {
+                    "passengers": [],
+                    "isBlocked": false,
+                    "isTunnel": false,
+                    "orientation": 0
+                },
+                {
+                    "passengers": [
+                        {
+                            "color": 2
+                        }
+                    ],
+                    "isBlocked": false,
+                    "isTunnel": false,
+                    "orientation": 0
+                },
+                {
+                    "passengers": [],
+                    "isBlocked": false,
+                    "isTunnel": false,
+                    "orientation": 0
+                },
+                {
+                    "passengers": [
+                        {
+                            "color": 1
+                        }
+                    ],
+                    "isBlocked": false,
+                    "isTunnel": false,
+                    "orientation": 0
+                }
+            ]
+        },
+        {
+            "cells": [
+                {
+                    "passengers": [],
+                    "isBlocked": true,
+                    "isTunnel": false,
+                    "orientation": 0
+                },
+                {
+                    "passengers": [],
+                    "isBlocked": false,
+                    "isTunnel": false,
+                    "orientation": 0
+                },
+                {
+                    "passengers": [],
+                    "isBlocked": false,
+                    "isTunnel": false,
+                    "orientation": 0
+                },
+                {
+                    "passengers": [],
+                    "isBlocked": false,
+                    "isTunnel": false,
+                    "orientation": 0
+                },
+                {
+                    "passengers": [],
+                    "isBlocked": true,
+                    "isTunnel": false,
+                    "orientation": 0
+                }
+            ]
+        }
+    ],
+    "buses": [
+        {
+            "color": 1,
+            "capacity": 2
+        },
+        {
+            "color": 2,
+            "capacity": 2
+        },
+        {
+            "color": 1,
+            "capacity": 2
+        },
+        {
+            "color": 2,
+            "capacity": 2
+        }
+    ],
+    "timeLimit": 120,
+    "waitingCellCount": 5,
+    "cameraPreset": -1
+}

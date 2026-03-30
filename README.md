@@ -1,0 +1,18 @@
+# Bus Jam - Rollic Case Study
+
+Gameplay video is included in the submission.
+
+## Level Editor
+
+Open via `BusJam > Level Editor`. Create or load levels, edit grid, place passengers/tunnels. Validates passenger-bus balance. In Play mode, click **Play Level** to test the level instantly without restarting.
+
+## Third-Party Assets
+
+- **Character:** Cute Character - Poly Pizza (https://poly.pizza/m/6kFNcL9OnO)
+- **Animations:** Mixamo
+- **Shader:** URP Simple Toon Shader (https://assetstore.unity.com/packages/vfx/shaders/urp-simple-toon-shader-243515)
+- **Bus, Seat, Cell models:** Custom-made
+
+---
+
+**Berkan Yunus Marancı** | berkanm.44@gmail.com | +90 535 475 46 38

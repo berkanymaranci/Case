@@ -1,0 +1,494 @@
+{
+    "id": 6,
+    "gridWidth": 7,
+    "gridHeight": 7,
+    "rows": [
+        {
+            "cells": [
+                {
+                    "passengers": [],
+                    "isBlocked": true,
+                    "isTunnel": false,
+                    "orientation": 0
+                },
+                {
+                    "passengers": [],
+                    "isBlocked": true,
+                    "isTunnel": false,
+                    "orientation": 0
+                },
+                {
+                    "passengers": [],
+                    "isBlocked": false,
+                    "isTunnel": false,
+                    "orientation": 0
+                },
+                {
+                    "passengers": [
+                        {
+                            "color": 3
+                        },
+                        {
+                            "color": 3
+                        },
+                        {
+                            "color": 3
+                        },
+                        {
+                            "color": 3
+                        }
+                    ],
+                    "isBlocked": false,
+                    "isTunnel": true,
+                    "orientation": 2
+                },
+                {
+                    "passengers": [],
+                    "isBlocked": false,
+                    "isTunnel": false,
+                    "orientation": 0
+                },
+                {
+                    "passengers": [],
+                    "isBlocked": true,
+                    "isTunnel": false,
+                    "orientation": 0
+                },
+                {
+                    "passengers": [],
+                    "isBlocked": true,
+                    "isTunnel": false,
+                    "orientation": 0
+                }
+            ]
+        },
+        {
+            "cells": [
+                {
+                    "passengers": [],
+                    "isBlocked": false,
+                    "isTunnel": false,
+                    "orientation": 0
+                },
+                {
+                    "passengers": [],
+                    "isBlocked": false,
+                    "isTunnel": false,
+                    "orientation": 0
+                },
+                {
+                    "passengers": [],
+                    "isBlocked": false,
+                    "isTunnel": false,
+                    "orientation": 0
+                },
+                {
+                    "passengers": [],
+                    "isBlocked": false,
+                    "isTunnel": false,
+                    "orientation": 0
+                },
+                {
+                    "passengers": [],
+                    "isBlocked": false,
+                    "isTunnel": false,
+                    "orientation": 0
+                },
+                {
+                    "passengers": [],
+                    "isBlocked": false,
+                    "isTunnel": false,
+                    "orientation": 0
+                },
+                {
+                    "passengers": [],
+                    "isBlocked": false,
+                    "isTunnel": false,
+                    "orientation": 0
+                }
+            ]
+        },
+        {
+            "cells": [
+                {
+                    "passengers": [
+                        {
+                            "color": 0
+                        }
+                    ],
+                    "isBlocked": false,
+                    "isTunnel": false,
+                    "orientation": 0
+                },
+                {
+                    "passengers": [
+                        {
+                            "color": 0
+                        }
+                    ],
+                    "isBlocked": false,
+                    "isTunnel": false,
+                    "orientation": 0
+                },
+                {
+                    "passengers": [
+                        {
+                            "color": 0
+                        }
+                    ],
+                    "isBlocked": false,
+                    "isTunnel": false,
+                    "orientation": 0
+                },
+                {
+                    "passengers": [],
+                    "isBlocked": false,
+                    "isTunnel": false,
+                    "orientation": 0
+                },
+                {
+                    "passengers": [
+                        {
+                            "color": 0
+                        }
+                    ],
+                    "isBlocked": false,
+                    "isTunnel": false,
+                    "orientation": 0
+                },
+                {
+                    "passengers": [
+                        {
+                            "color": 0
+                        }
+                    ],
+                    "isBlocked": false,
+                    "isTunnel": false,
+                    "orientation": 0
+                },
+                {
+                    "passengers": [
+                        {
+                            "color": 0
+                        }
+                    ],
+                    "isBlocked": false,
+                    "isTunnel": false,
+                    "orientation": 0
+                }
+            ]
+        },
+        {
+            "cells": [
+                {
+                    "passengers": [],
+                    "isBlocked": false,
+                    "isTunnel": false,
+                    "orientation": 0
+                },
+                {
+                    "passengers": [
+                        {
+                            "color": 3
+                        }
+                    ],
+                    "isBlocked": false,
+                    "isTunnel": false,
+                    "orientation": 0
+                },
+                {
+                    "passengers": [
+                        {
+                            "color": 3
+                        }
+                    ],
+                    "isBlocked": false,
+                    "isTunnel": false,
+                    "orientation": 0
+                },
+                {
+                    "passengers": [],
+                    "isBlocked": false,
+                    "isTunnel": false,
+                    "orientation": 0
+                },
+                {
+                    "passengers": [
+                        {
+                            "color": 3
+                        }
+                    ],
+                    "isBlocked": false,
+                    "isTunnel": false,
+                    "orientation": 0
+                },
+                {
+                    "passengers": [
+                        {
+                            "color": 3
+                        }
+                    ],
+                    "isBlocked": false,
+                    "isTunnel": false,
+                    "orientation": 0
+                },
+                {
+                    "passengers": [],
+                    "isBlocked": false,
+                    "isTunnel": false,
+                    "orientation": 0
+                }
+            ]
+        },
+        {
+            "cells": [
+                {
+                    "passengers": [],
+                    "isBlocked": false,
+                    "isTunnel": false,
+                    "orientation": 0
+                },
+                {
+                    "passengers": [
+                        {
+                            "color": 0
+                        },
+                        {
+                            "color": 3
+                        }
+                    ],
+                    "isBlocked": false,
+                    "isTunnel": true,
+                    "orientation": 1
+                },
+                {
+                    "passengers": [
+                        {
+                            "color": 1
+                        }
+                    ],
+                    "isBlocked": false,
+                    "isTunnel": false,
+                    "orientation": 0
+                },
+                {
+                    "passengers": [],
+                    "isBlocked": false,
+                    "isTunnel": false,
+                    "orientation": 0
+                },
+                {
+                    "passengers": [
+                        {
+                            "color": 1
+                        }
+                    ],
+                    "isBlocked": false,
+                    "isTunnel": false,
+                    "orientation": 0
+                },
+                {
+                    "passengers": [
+                        {
+                            "color": 0
+                        },
+                        {
+                            "color": 3
+                        }
+                    ],
+                    "isBlocked": false,
+                    "isTunnel": true,
+                    "orientation": 3
+                },
+                {
+                    "passengers": [],
+                    "isBlocked": false,
+                    "isTunnel": false,
+                    "orientation": 0
+                }
+            ]
+        },
+        {
+            "cells": [
+                {
+                    "passengers": [],
+                    "isBlocked": false,
+                    "isTunnel": false,
+                    "orientation": 0
+                },
+                {
+                    "passengers": [],
+                    "isBlocked": false,
+                    "isTunnel": false,
+                    "orientation": 0
+                },
+                {
+                    "passengers": [],
+                    "isBlocked": false,
+                    "isTunnel": false,
+                    "orientation": 0
+                },
+                {
+                    "passengers": [],
+                    "isBlocked": false,
+                    "isTunnel": false,
+                    "orientation": 0
+                },
+                {
+                    "passengers": [],
+                    "isBlocked": false,
+                    "isTunnel": false,
+                    "orientation": 0
+                },
+                {
+                    "passengers": [],
+                    "isBlocked": false,
+                    "isTunnel": false,
+                    "orientation": 0
+                },
+                {
+                    "passengers": [],
+                    "isBlocked": false,
+                    "isTunnel": false,
+                    "orientation": 0
+                }
+            ]
+        },
+        {
+            "cells": [
+                {
+                    "passengers": [
+                        {
+                            "color": 4
+                        },
+                        {
+                            "color": 4
+                        },
+                        {
+                            "color": 4
+                        }
+                    ],
+                    "isBlocked": false,
+                    "isTunnel": true,
+                    "orientation": 1
+                },
+                {
+                    "passengers": [],
+                    "isBlocked": false,
+                    "isTunnel": false,
+                    "orientation": 0
+                },
+                {
+                    "passengers": [],
+                    "isBlocked": false,
+                    "isTunnel": false,
+                    "orientation": 0
+                },
+                {
+                    "passengers": [
+                        {
+                            "color": 1
+                        },
+                        {
+                            "color": 1
+                        },
+                        {
+                            "color": 2
+                        },
+                        {
+                            "color": 2
+                        }
+                    ],
+                    "isBlocked": false,
+                    "isTunnel": true,
+                    "orientation": 0
+                },
+                {
+                    "passengers": [],
+                    "isBlocked": false,
+                    "isTunnel": false,
+                    "orientation": 0
+                },
+                {
+                    "passengers": [],
+                    "isBlocked": false,
+                    "isTunnel": false,
+                    "orientation": 0
+                },
+                {
+                    "passengers": [
+                        {
+                            "color": 4
+                        },
+                        {
+                            "color": 4
+                        },
+                        {
+                            "color": 4
+                        }
+                    ],
+                    "isBlocked": false,
+                    "isTunnel": true,
+                    "orientation": 3
+                }
+            ]
+        }
+    ],
+    "buses": [
+        {
+            "color": 0,
+            "capacity": 1
+        },
+        {
+            "color": 1,
+            "capacity": 2
+        },
+        {
+            "color": 2,
+            "capacity": 2
+        },
+        {
+            "color": 3,
+            "capacity": 3
+        },
+        {
+            "color": 1,
+            "capacity": 2
+        },
+        {
+            "color": 0,
+            "capacity": 1
+        },
+        {
+            "color": 0,
+            "capacity": 3
+        },
+        {
+            "color": 3,
+            "capacity": 3
+        },
+        {
+            "color": 3,
+            "capacity": 1
+        },
+        {
+            "color": 4,
+            "capacity": 3
+        },
+        {
+            "color": 3,
+            "capacity": 3
+        },
+        {
+            "color": 0,
+            "capacity": 3
+        },
+        {
+            "color": 4,
+            "capacity": 3
+        }
+    ],
+    "timeLimit": 180,
+    "waitingCellCount": 5,
+    "cameraPreset": 0
+}
