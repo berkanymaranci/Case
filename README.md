@@ -1,6 +1,6 @@
-# Bus Jam - Rollic Case Study
+# Case Study
 
-Gameplay video is included in the submission.
+[Gameplay Video](https://drive.google.com/file/d/1m3vDO9_wuM-Znsv4jlZjsHs5MkTXBWEx/view?usp=drivesdk)
 
 ## Level Editor
 
@@ -11,8 +11,9 @@ Open via `BusJam > Level Editor`. Create or load levels, edit grid, place passen
 - **Character:** Cute Character - Poly Pizza (https://poly.pizza/m/6kFNcL9OnO)
 - **Animations:** Mixamo
 - **Shader:** URP Simple Toon Shader (https://assetstore.unity.com/packages/vfx/shaders/urp-simple-toon-shader-243515)
-- **Bus, Seat, Cell models:** Custom-made
+- **Bus, Seat, Cell models:** Hand-modeled
 
----
+## Project
 
-**Berkan Yunus Marancı** | berkanm.44@gmail.com | +90 535 475 46 38
+*Direct project files can be accessed here:*  
+[Download Project Files](https://drive.google.com/file/d/1m3vDO9_wuM-Znsv4jlZjsHs5MkTXBWEx/view?usp=drivesdk)
