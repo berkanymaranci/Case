@@ -4,7 +4,7 @@
 
 ## Level Editor
 
-Open via `BusJam > Level Editor`. Create or load levels, edit grid, place passengers/tunnels. Validates passenger-bus balance. In Play mode, click **Play Level** to test the level instantly without restarting.
+Open via `BusJam > Level Editor`. Create or load levels, edit grid, place passengers/tunnels. Validates passenger-bus balance. Click Play button to test it instantly in the game scene.
 
 ## Third-Party Assets
 
